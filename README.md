@@ -69,6 +69,14 @@ Publicamos un mensaje desde el GUI de RabbitMQ y verificamos los logs del conten
 ![image](https://github.com/user-attachments/assets/62a89aeb-0f11-497e-9a8b-238918ba2fe3)
 ![image](https://github.com/user-attachments/assets/0fc53464-f846-4706-b101-2ee73c10d206)
 
+Publicamos un mensaje desde la máquina personal y verificamos los logs del contenedor de publisher y consumer.
+![image](https://github.com/user-attachments/assets/9298267e-2e30-4c70-a9b2-df3755b15e95)
+![image](https://github.com/user-attachments/assets/44d37115-0a73-474f-a134-450ea3d362bc)
+![image](https://github.com/user-attachments/assets/8ecefa1c-9d8b-47a6-92b9-614e267a5311)
+
+
+
+
 
 
 
