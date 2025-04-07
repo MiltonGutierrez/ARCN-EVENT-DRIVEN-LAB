@@ -59,3 +59,16 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 ![image](https://github.com/user-attachments/assets/b14762e6-0477-4d59-89e3-4bd184d38d2c)
 
 ### Despliegue con Play with docker
+Creamos el archivo docker-compose.yml
+![image](https://github.com/user-attachments/assets/250c741f-5a0c-4439-ab82-9eb34837617c)
+
+Iniciamos los contenedores
+![image](https://github.com/user-attachments/assets/8b83480f-1f9c-4abb-b75e-6d61e61b18c9)
+
+Publicamos un mensaje desde el GUI de RabbitMQ y verificamos los logs del contenedor de consumer
+![image](https://github.com/user-attachments/assets/62a89aeb-0f11-497e-9a8b-238918ba2fe3)
+![image](https://github.com/user-attachments/assets/0fc53464-f846-4706-b101-2ee73c10d206)
+
+
+
+
