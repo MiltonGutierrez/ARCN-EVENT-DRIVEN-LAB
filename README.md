@@ -63,6 +63,7 @@ Creamos el archivo docker-compose.yml
 ![image](https://github.com/user-attachments/assets/250c741f-5a0c-4439-ab82-9eb34837617c)
 
 Iniciamos los contenedores
+
 ![image](https://github.com/user-attachments/assets/8b83480f-1f9c-4abb-b75e-6d61e61b18c9)
 
 Publicamos un mensaje desde el GUI de RabbitMQ y verificamos los logs del contenedor de consumer
